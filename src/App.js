@@ -1,11 +1,10 @@
 import "./App.scss";
+import Navbar from "./components/navbar/Navbar";
 
 const App = () => {
   return(
     <div className="App">
-      <h1>appp
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, iste?</p>
-      </h1>
+      <Navbar/>      
     </div>
   )
 }
