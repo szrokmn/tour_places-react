@@ -13,7 +13,7 @@ export const data = [
     desc:
       "The island country, the Philippines, is one of the most beautiful countries where blue and green are together. Forget the potion of youth, traveling to the Philippines will rejuvenate you for at least 5 years.",
     image:
-      "https://bigseventravel.com/wp-content/uploads/2019/11/john-hernandez-IL-fBBnF-GU-unsplash-1920x1440.jpg",
+      "https://www.mimarizm.com/themes/uploads/images/fgdgs.jpg",
   },
   {
     id: 3,
